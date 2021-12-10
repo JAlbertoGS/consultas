@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  asunto: MyString
+  doctor: MyText
+  fecha: 2021-12-10
+  estado: MyString
+  user: one
+
+two:
+  asunto: MyString
+  doctor: MyText
+  fecha: 2021-12-10
+  estado: MyString
+  user: two
